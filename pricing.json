@@ -1,0 +1,5054 @@
+{
+  "items": [
+    {
+      "id": "D318",
+      "PLU": "526000040",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D319",
+      "PLU": "526000369",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D320",
+      "PLU": "526000004",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D321",
+      "PLU": "526000038",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D322",
+      "PLU": "526002533",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D329",
+      "PLU": "521001852",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D330",
+      "PLU": "521001854",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D332",
+      "PLU": "521001853",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D336",
+      "PLU": "526002532",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D338",
+      "PLU": "526001294",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D339",
+      "PLU": "526000041",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D341",
+      "PLU": "524000996",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D342",
+      "PLU": "524002369",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D343",
+      "PLU": "522002534",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D344",
+      "PLU": "524001922",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D345",
+      "PLU": "522001860",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D346",
+      "PLU": "522002164",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D347",
+      "PLU": "524001925",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D349",
+      "PLU": "526001775",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D351",
+      "PLU": "523001908",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D353",
+      "PLU": "524002536",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D354",
+      "PLU": "523000871",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D357",
+      "PLU": "524002371",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D358",
+      "PLU": "523000873",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D359",
+      "PLU": "524001005",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D360",
+      "PLU": "523000986",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D361",
+      "PLU": "524001924",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D363",
+      "PLU": "524001008",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D364",
+      "PLU": "523001928",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D365",
+      "PLU": "523000872",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D367",
+      "PLU": "523001009",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D369",
+      "PLU": "524101975",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D370",
+      "PLU": "526001782",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D372",
+      "PLU": "525001170",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D373",
+      "PLU": "526001001",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D375",
+      "PLU": "526000012",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D428",
+      "PLU": "523000982",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D430",
+      "PLU": "521902165",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D434",
+      "PLU": "524102050",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D441",
+      "PLU": "521201846",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D471",
+      "PLU": "524102638",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D480",
+      "PLU": "526002678",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D533",
+      "PLU": "524002877",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D538",
+      "PLU": "526002893",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D611",
+      "PLU": "521902976",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D970",
+      "PLU": "523003453",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1020",
+      "PLU": "521002063",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1022",
+      "PLU": "526003577",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1025",
+      "PLU": "526003578",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1027",
+      "PLU": "524003579",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1028",
+      "PLU": "524003580",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1408",
+      "PLU": "521004235",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1472",
+      "PLU": "521903034",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1481",
+      "PLU": "526000878",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1566",
+      "PLU": "526002950",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1567",
+      "PLU": "526002584",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1636",
+      "PLU": "526003741",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1657",
+      "PLU": "522004819",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1658",
+      "PLU": "521604856",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1733",
+      "PLU": "521904988",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1773",
+      "PLU": "524000668",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1776",
+      "PLU": "521005051",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1794",
+      "PLU": "526000241",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1839",
+      "PLU": "526005200",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1847",
+      "PLU": "524005222",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1857",
+      "PLU": "522005225",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1881",
+      "PLU": "526005281",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1882",
+      "PLU": "526005318",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1896",
+      "PLU": "526005340",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1898",
+      "PLU": "526001043",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1900",
+      "PLU": "524000991",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1953",
+      "PLU": "527105525",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1955",
+      "PLU": "527105523",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D1957",
+      "PLU": "527105524",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D3015",
+      "PLU": "524005772",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D3017",
+      "PLU": "524005789",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "D3043",
+      "PLU": "524105848",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0
+        }
+      ]
+    },
+    {
+      "id": "12781",
+      "PLU": "111000001",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 10.18
+        }
+      ]
+    },
+    {
+      "id": "12785",
+      "PLU": "121000001",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 6.82
+        }
+      ]
+    },
+    {
+      "id": "12787",
+      "PLU": "131000001",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.9
+        }
+      ]
+    },
+    {
+      "id": "12797",
+      "PLU": "111000002",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 11.26
+        }
+      ]
+    },
+    {
+      "id": "12799",
+      "PLU": "121000002",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.66
+        }
+      ]
+    },
+    {
+      "id": "12801",
+      "PLU": "131000002",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.38
+        }
+      ]
+    },
+    {
+      "id": "12805",
+      "PLU": "171000002",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.54
+        }
+      ]
+    },
+    {
+      "id": "12807",
+      "PLU": "172000002",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.26
+        }
+      ]
+    },
+    {
+      "id": "12817",
+      "PLU": "111000003",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 11.26
+        }
+      ]
+    },
+    {
+      "id": "12819",
+      "PLU": "121000003",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.66
+        }
+      ]
+    },
+    {
+      "id": "12821",
+      "PLU": "131000003",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.5
+        }
+      ]
+    },
+    {
+      "id": "12827",
+      "PLU": "172000003",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.26
+        }
+      ]
+    },
+    {
+      "id": "12829",
+      "PLU": "171000003",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.54
+        }
+      ]
+    },
+    {
+      "id": "12843",
+      "PLU": "111000004",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 10.18
+        }
+      ]
+    },
+    {
+      "id": "12847",
+      "PLU": "121000004",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 6.82
+        }
+      ]
+    },
+    {
+      "id": "12849",
+      "PLU": "131000004",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.9
+        }
+      ]
+    },
+    {
+      "id": "12851",
+      "PLU": "174000004",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.68
+        }
+      ]
+    },
+    {
+      "id": "12853",
+      "PLU": "171000004",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.54
+        }
+      ]
+    },
+    {
+      "id": "12855",
+      "PLU": "172000004",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.26
+        }
+      ]
+    },
+    {
+      "id": "12857",
+      "PLU": "175000004",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0.84
+        }
+      ]
+    },
+    {
+      "id": "12869",
+      "PLU": "111000006",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 11.26
+        }
+      ]
+    },
+    {
+      "id": "12871",
+      "PLU": "121000006",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.66
+        }
+      ]
+    },
+    {
+      "id": "12873",
+      "PLU": "131000006",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 9.1
+        }
+      ]
+    },
+    {
+      "id": "12877",
+      "PLU": "171000006",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.54
+        }
+      ]
+    },
+    {
+      "id": "12879",
+      "PLU": "172000006",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.26
+        }
+      ]
+    },
+    {
+      "id": "12919",
+      "PLU": "111000011",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 11.26
+        }
+      ]
+    },
+    {
+      "id": "12921",
+      "PLU": "121000011",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.66
+        }
+      ]
+    },
+    {
+      "id": "12923",
+      "PLU": "131000011",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.26
+        }
+      ]
+    },
+    {
+      "id": "12925",
+      "PLU": "171000011",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.54
+        }
+      ]
+    },
+    {
+      "id": "12929",
+      "PLU": "172000011",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.26
+        }
+      ]
+    },
+    {
+      "id": "12943",
+      "PLU": "111000012",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 10.18
+        }
+      ]
+    },
+    {
+      "id": "12947",
+      "PLU": "121000012",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 6.82
+        }
+      ]
+    },
+    {
+      "id": "12949",
+      "PLU": "131000012",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.9
+        }
+      ]
+    },
+    {
+      "id": "12953",
+      "PLU": "171000012",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.54
+        }
+      ]
+    },
+    {
+      "id": "12955",
+      "PLU": "172000012",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.26
+        }
+      ]
+    },
+    {
+      "id": "13123",
+      "PLU": "175000036",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0.84
+        }
+      ]
+    },
+    {
+      "id": "13125",
+      "PLU": "174000036",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.68
+        }
+      ]
+    },
+    {
+      "id": "13129",
+      "PLU": "175000037",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0.72
+        }
+      ]
+    },
+    {
+      "id": "13131",
+      "PLU": "174000037",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.44
+        }
+      ]
+    },
+    {
+      "id": "13147",
+      "PLU": "111000041",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 11.26
+        }
+      ]
+    },
+    {
+      "id": "13149",
+      "PLU": "121000041",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.66
+        }
+      ]
+    },
+    {
+      "id": "13151",
+      "PLU": "131000041",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.86
+        }
+      ]
+    },
+    {
+      "id": "13153",
+      "PLU": "174000041",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.54
+        }
+      ]
+    },
+    {
+      "id": "13155",
+      "PLU": "171000041",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.54
+        }
+      ]
+    },
+    {
+      "id": "13157",
+      "PLU": "172000041",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.26
+        }
+      ]
+    },
+    {
+      "id": "13159",
+      "PLU": "175000041",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.26
+        }
+      ]
+    },
+    {
+      "id": "13195",
+      "PLU": "341000110",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.3
+        }
+      ]
+    },
+    {
+      "id": "13247",
+      "PLU": "163000294",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.26
+        }
+      ]
+    },
+    {
+      "id": "13253",
+      "PLU": "111000369",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 11.26
+        }
+      ]
+    },
+    {
+      "id": "13255",
+      "PLU": "121000369",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.66
+        }
+      ]
+    },
+    {
+      "id": "13257",
+      "PLU": "131000369",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.98
+        }
+      ]
+    },
+    {
+      "id": "13259",
+      "PLU": "174000369",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.54
+        }
+      ]
+    },
+    {
+      "id": "13261",
+      "PLU": "171000369",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.54
+        }
+      ]
+    },
+    {
+      "id": "13263",
+      "PLU": "172000369",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.26
+        }
+      ]
+    },
+    {
+      "id": "13265",
+      "PLU": "175000369",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.26
+        }
+      ]
+    },
+    {
+      "id": "23301",
+      "PLU": "111000878",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 11.26
+        }
+      ]
+    },
+    {
+      "id": "23305",
+      "PLU": "121000878",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.66
+        }
+      ]
+    },
+    {
+      "id": "23309",
+      "PLU": "131000878",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 9.58
+        }
+      ]
+    },
+    {
+      "id": "23311",
+      "PLU": "171000878",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.44
+        }
+      ]
+    },
+    {
+      "id": "23313",
+      "PLU": "172000878",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0.72
+        }
+      ]
+    },
+    {
+      "id": "23993",
+      "PLU": "174001170",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.88
+        }
+      ]
+    },
+    {
+      "id": "23995",
+      "PLU": "175001170",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.44
+        }
+      ]
+    },
+    {
+      "id": "27337",
+      "PLU": "175001294",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0.6
+        }
+      ]
+    },
+    {
+      "id": "39498",
+      "PLU": "162000001",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.18
+        }
+      ]
+    },
+    {
+      "id": "39499",
+      "PLU": "162000002",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.26
+        }
+      ]
+    },
+    {
+      "id": "39500",
+      "PLU": "162000003",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.26
+        }
+      ]
+    },
+    {
+      "id": "39501",
+      "PLU": "162000004",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.18
+        }
+      ]
+    },
+    {
+      "id": "39504",
+      "PLU": "162000011",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.26
+        }
+      ]
+    },
+    {
+      "id": "39505",
+      "PLU": "162000012",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 6.94
+        }
+      ]
+    },
+    {
+      "id": "39513",
+      "PLU": "162000041",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.26
+        }
+      ]
+    },
+    {
+      "id": "39516",
+      "PLU": "162000369",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.26
+        }
+      ]
+    },
+    {
+      "id": "39687",
+      "PLU": "111001782",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 12.34
+        }
+      ]
+    },
+    {
+      "id": "39689",
+      "PLU": "121001782",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.5
+        }
+      ]
+    },
+    {
+      "id": "39691",
+      "PLU": "131001782",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.98
+        }
+      ]
+    },
+    {
+      "id": "39692",
+      "PLU": "172001782",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.26
+        }
+      ]
+    },
+    {
+      "id": "39696",
+      "PLU": "171001782",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.54
+        }
+      ]
+    },
+    {
+      "id": "39709",
+      "PLU": "162001782",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.98
+        }
+      ]
+    },
+    {
+      "id": "40168",
+      "PLU": "162000006",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.26
+        }
+      ]
+    },
+    {
+      "id": "43174",
+      "PLU": "175000105",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0.6
+        }
+      ]
+    },
+    {
+      "id": "43176",
+      "PLU": "174000105",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.2
+        }
+      ]
+    },
+    {
+      "id": "44843",
+      "PLU": "341002553",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0.82
+        }
+      ]
+    },
+    {
+      "id": "45012",
+      "PLU": "174000247",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.78
+        }
+      ]
+    },
+    {
+      "id": "45080",
+      "PLU": "321101888",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.42
+        }
+      ]
+    },
+    {
+      "id": "45089",
+      "PLU": "321102583",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.42
+        }
+      ]
+    },
+    {
+      "id": "45090",
+      "PLU": "311102584",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.66
+        }
+      ]
+    },
+    {
+      "id": "45096",
+      "PLU": "311102585",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.66
+        }
+      ]
+    },
+    {
+      "id": "45097",
+      "PLU": "311102586",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.66
+        }
+      ]
+    },
+    {
+      "id": "45099",
+      "PLU": "311102587",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.42
+        }
+      ]
+    },
+    {
+      "id": "45100",
+      "PLU": "311102588",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.66
+        }
+      ]
+    },
+    {
+      "id": "45105",
+      "PLU": "221102579",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.74
+        }
+      ]
+    },
+    {
+      "id": "45110",
+      "PLU": "221102578",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.26
+        }
+      ]
+    },
+    {
+      "id": "45172",
+      "PLU": "221102454",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.22
+        }
+      ]
+    },
+    {
+      "id": "45197",
+      "PLU": "321101877",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.62
+        }
+      ]
+    },
+    {
+      "id": "45236",
+      "PLU": "321102608",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0.94
+        }
+      ]
+    },
+    {
+      "id": "46443",
+      "PLU": "321102809",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.62
+        }
+      ]
+    },
+    {
+      "id": "46446",
+      "PLU": "321102810",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.62
+        }
+      ]
+    },
+    {
+      "id": "46456",
+      "PLU": "321102811",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 6.46
+        }
+      ]
+    },
+    {
+      "id": "46780",
+      "PLU": "163002856",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 6.94
+        }
+      ]
+    },
+    {
+      "id": "47409",
+      "PLU": "311102947",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.42
+        }
+      ]
+    },
+    {
+      "id": "47413",
+      "PLU": "311102948",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.42
+        }
+      ]
+    },
+    {
+      "id": "47414",
+      "PLU": "311102949",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.42
+        }
+      ]
+    },
+    {
+      "id": "47419",
+      "PLU": "311102952",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.42
+        }
+      ]
+    },
+    {
+      "id": "47420",
+      "PLU": "311102950",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.42
+        }
+      ]
+    },
+    {
+      "id": "47425",
+      "PLU": "311102951",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.42
+        }
+      ]
+    },
+    {
+      "id": "47426",
+      "PLU": "311102598",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.42
+        }
+      ]
+    },
+    {
+      "id": "47442",
+      "PLU": "311102958",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.42
+        }
+      ]
+    },
+    {
+      "id": "47465",
+      "PLU": "311102960",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.42
+        }
+      ]
+    },
+    {
+      "id": "47489",
+      "PLU": "811002915",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.46
+        }
+      ]
+    },
+    {
+      "id": "47492",
+      "PLU": "811002431",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.46
+        }
+      ]
+    },
+    {
+      "id": "47495",
+      "PLU": "811002432",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.74
+        }
+      ]
+    },
+    {
+      "id": "47525",
+      "PLU": "811002437",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.1
+        }
+      ]
+    },
+    {
+      "id": "47528",
+      "PLU": "811002439",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.3
+        }
+      ]
+    },
+    {
+      "id": "47563",
+      "PLU": "341002734",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.94
+        }
+      ]
+    },
+    {
+      "id": "47566",
+      "PLU": "341002733",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5.38
+        }
+      ]
+    },
+    {
+      "id": "47569",
+      "PLU": "341000105",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.38
+        }
+      ]
+    },
+    {
+      "id": "47702",
+      "PLU": "221002986",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.8
+        }
+      ]
+    },
+    {
+      "id": "47747",
+      "PLU": "221102384",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.22
+        }
+      ]
+    },
+    {
+      "id": "50078",
+      "PLU": "341002137",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.7
+        }
+      ]
+    },
+    {
+      "id": "50633",
+      "PLU": "341003403",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.38
+        }
+      ]
+    },
+    {
+      "id": "50638",
+      "PLU": "341003405",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.14
+        }
+      ]
+    },
+    {
+      "id": "51274",
+      "PLU": "341000394",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.42
+        }
+      ]
+    },
+    {
+      "id": "51730",
+      "PLU": "111003546",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 11.26
+        }
+      ]
+    },
+    {
+      "id": "51731",
+      "PLU": "121003546",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.66
+        }
+      ]
+    },
+    {
+      "id": "51740",
+      "PLU": "171003546",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.54
+        }
+      ]
+    },
+    {
+      "id": "51741",
+      "PLU": "172003546",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.26
+        }
+      ]
+    },
+    {
+      "id": "51742",
+      "PLU": "111003545",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 12.34
+        }
+      ]
+    },
+    {
+      "id": "51743",
+      "PLU": "121003545",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.5
+        }
+      ]
+    },
+    {
+      "id": "51750",
+      "PLU": "171003545",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.54
+        }
+      ]
+    },
+    {
+      "id": "51751",
+      "PLU": "172003545",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.26
+        }
+      ]
+    },
+    {
+      "id": "51780",
+      "PLU": "111003551",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 12.94
+        }
+      ]
+    },
+    {
+      "id": "51781",
+      "PLU": "121003551",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.62
+        }
+      ]
+    },
+    {
+      "id": "51808",
+      "PLU": "174000040",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.4
+        }
+      ]
+    },
+    {
+      "id": "51810",
+      "PLU": "111003550",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 13.18
+        }
+      ]
+    },
+    {
+      "id": "51811",
+      "PLU": "121003550",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.74
+        }
+      ]
+    },
+    {
+      "id": "51817",
+      "PLU": "175000040",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.2
+        }
+      ]
+    },
+    {
+      "id": "51824",
+      "PLU": "111003548",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 12.1
+        }
+      ]
+    },
+    {
+      "id": "51825",
+      "PLU": "121003548",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.02
+        }
+      ]
+    },
+    {
+      "id": "51831",
+      "PLU": "174000038",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.4
+        }
+      ]
+    },
+    {
+      "id": "51837",
+      "PLU": "175000038",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.2
+        }
+      ]
+    },
+    {
+      "id": "51874",
+      "PLU": "131003545",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 9.7
+        }
+      ]
+    },
+    {
+      "id": "51875",
+      "PLU": "162003545",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.98
+        }
+      ]
+    },
+    {
+      "id": "51880",
+      "PLU": "131003546",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.26
+        }
+      ]
+    },
+    {
+      "id": "51881",
+      "PLU": "162003546",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.26
+        }
+      ]
+    },
+    {
+      "id": "53405",
+      "PLU": "171101775",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.78
+        }
+      ]
+    },
+    {
+      "id": "53406",
+      "PLU": "172101775",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0.94
+        }
+      ]
+    },
+    {
+      "id": "53505",
+      "PLU": "171103700",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.54
+        }
+      ]
+    },
+    {
+      "id": "53506",
+      "PLU": "172103700",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.26
+        }
+      ]
+    },
+    {
+      "id": "53580",
+      "PLU": "113003702",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.02
+        }
+      ]
+    },
+    {
+      "id": "53581",
+      "PLU": "123003702",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5.26
+        }
+      ]
+    },
+    {
+      "id": "53583",
+      "PLU": "171103702",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.54
+        }
+      ]
+    },
+    {
+      "id": "53584",
+      "PLU": "172103702",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.26
+        }
+      ]
+    },
+    {
+      "id": "53733",
+      "PLU": "341003045",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.66
+        }
+      ]
+    },
+    {
+      "id": "53736",
+      "PLU": "341003044",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.66
+        }
+      ]
+    },
+    {
+      "id": "53751",
+      "PLU": "811003752",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.58
+        }
+      ]
+    },
+    {
+      "id": "54415",
+      "PLU": "162003550",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.62
+        }
+      ]
+    },
+    {
+      "id": "54475",
+      "PLU": "321103819",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.62
+        }
+      ]
+    },
+    {
+      "id": "54489",
+      "PLU": "221103822",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.02
+        }
+      ]
+    },
+    {
+      "id": "54513",
+      "PLU": "171003550",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.54
+        }
+      ]
+    },
+    {
+      "id": "54514",
+      "PLU": "172003550",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.26
+        }
+      ]
+    },
+    {
+      "id": "54528",
+      "PLU": "171003551",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.54
+        }
+      ]
+    },
+    {
+      "id": "54530",
+      "PLU": "172003551",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.26
+        }
+      ]
+    },
+    {
+      "id": "54597",
+      "PLU": "171003548",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.54
+        }
+      ]
+    },
+    {
+      "id": "54598",
+      "PLU": "172003548",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.26
+        }
+      ]
+    },
+    {
+      "id": "56832",
+      "PLU": "111004170",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 13.3
+        }
+      ]
+    },
+    {
+      "id": "56833",
+      "PLU": "121004170",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.86
+        }
+      ]
+    },
+    {
+      "id": "56892",
+      "PLU": "113004174",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 9.1
+        }
+      ]
+    },
+    {
+      "id": "56893",
+      "PLU": "123004174",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5.86
+        }
+      ]
+    },
+    {
+      "id": "56910",
+      "PLU": "111004172",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 11.26
+        }
+      ]
+    },
+    {
+      "id": "56911",
+      "PLU": "121004172",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.9
+        }
+      ]
+    },
+    {
+      "id": "56912",
+      "PLU": "221204176",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.98
+        }
+      ]
+    },
+    {
+      "id": "56913",
+      "PLU": "221104178",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.98
+        }
+      ]
+    },
+    {
+      "id": "56928",
+      "PLU": "221104180",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.74
+        }
+      ]
+    },
+    {
+      "id": "56929",
+      "PLU": "221104182",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5.5
+        }
+      ]
+    },
+    {
+      "id": "56950",
+      "PLU": "221104187",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.74
+        }
+      ]
+    },
+    {
+      "id": "56952",
+      "PLU": "221104189",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.74
+        }
+      ]
+    },
+    {
+      "id": "56955",
+      "PLU": "221104190",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.74
+        }
+      ]
+    },
+    {
+      "id": "56958",
+      "PLU": "221104192",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.78
+        }
+      ]
+    },
+    {
+      "id": "56964",
+      "PLU": "221104197",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.74
+        }
+      ]
+    },
+    {
+      "id": "56967",
+      "PLU": "221104199",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.92
+        }
+      ]
+    },
+    {
+      "id": "56970",
+      "PLU": "221102868",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.74
+        }
+      ]
+    },
+    {
+      "id": "56973",
+      "PLU": "221104202",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.92
+        }
+      ]
+    },
+    {
+      "id": "56976",
+      "PLU": "221104177",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.92
+        }
+      ]
+    },
+    {
+      "id": "56985",
+      "PLU": "221104183",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.6
+        }
+      ]
+    },
+    {
+      "id": "56988",
+      "PLU": "221104184",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.92
+        }
+      ]
+    },
+    {
+      "id": "56991",
+      "PLU": "221104186",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.92
+        }
+      ]
+    },
+    {
+      "id": "56994",
+      "PLU": "221104188",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.92
+        }
+      ]
+    },
+    {
+      "id": "56997",
+      "PLU": "221104191",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.92
+        }
+      ]
+    },
+    {
+      "id": "57000",
+      "PLU": "221104193",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.92
+        }
+      ]
+    },
+    {
+      "id": "57003",
+      "PLU": "221104194",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.66
+        }
+      ]
+    },
+    {
+      "id": "57006",
+      "PLU": "221104196",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.6
+        }
+      ]
+    },
+    {
+      "id": "57024",
+      "PLU": "221104198",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.74
+        }
+      ]
+    },
+    {
+      "id": "57342",
+      "PLU": "245004185",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.1
+        }
+      ]
+    },
+    {
+      "id": "57343",
+      "PLU": "245004179",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.06
+        }
+      ]
+    },
+    {
+      "id": "57344",
+      "PLU": "245004181",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.22
+        }
+      ]
+    },
+    {
+      "id": "57345",
+      "PLU": "221004218",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.1
+        }
+      ]
+    },
+    {
+      "id": "57348",
+      "PLU": "341004252",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.66
+        }
+      ]
+    },
+    {
+      "id": "57353",
+      "PLU": "341004254",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.06
+        }
+      ]
+    },
+    {
+      "id": "57356",
+      "PLU": "341004251",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.62
+        }
+      ]
+    },
+    {
+      "id": "57371",
+      "PLU": "221004200",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.78
+        }
+      ]
+    },
+    {
+      "id": "57774",
+      "PLU": "321104296",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.78
+        }
+      ]
+    },
+    {
+      "id": "57885",
+      "PLU": "341004319",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.1
+        }
+      ]
+    },
+    {
+      "id": "57888",
+      "PLU": "341004320",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 6.34
+        }
+      ]
+    },
+    {
+      "id": "57895",
+      "PLU": "175000247",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0.6
+        }
+      ]
+    },
+    {
+      "id": "58687",
+      "PLU": "341004166",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.5
+        }
+      ]
+    },
+    {
+      "id": "58689",
+      "PLU": "341004395",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.06
+        }
+      ]
+    },
+    {
+      "id": "58695",
+      "PLU": "162000878",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.68
+        }
+      ]
+    },
+    {
+      "id": "58757",
+      "PLU": "111004419",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 13.78
+        }
+      ]
+    },
+    {
+      "id": "58758",
+      "PLU": "121004419",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 9.34
+        }
+      ]
+    },
+    {
+      "id": "59491",
+      "PLU": "111003833",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 13.66
+        }
+      ]
+    },
+    {
+      "id": "59492",
+      "PLU": "121003833",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 9.46
+        }
+      ]
+    },
+    {
+      "id": "59551",
+      "PLU": "171003833",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.6
+        }
+      ]
+    },
+    {
+      "id": "59556",
+      "PLU": "172003833",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.8
+        }
+      ]
+    },
+    {
+      "id": "59694",
+      "PLU": "163004379",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.74
+        }
+      ]
+    },
+    {
+      "id": "59696",
+      "PLU": "163004377",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.74
+        }
+      ]
+    },
+    {
+      "id": "60421",
+      "PLU": "171004170",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.19
+        }
+      ]
+    },
+    {
+      "id": "60422",
+      "PLU": "172004170",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.59
+        }
+      ]
+    },
+    {
+      "id": "60609",
+      "PLU": "163004732",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.74
+        }
+      ]
+    },
+    {
+      "id": "60682",
+      "PLU": "163004742",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.06
+        }
+      ]
+    },
+    {
+      "id": "60825",
+      "PLU": "221104638",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5
+        }
+      ]
+    },
+    {
+      "id": "60826",
+      "PLU": "221104632",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5
+        }
+      ]
+    },
+    {
+      "id": "60827",
+      "PLU": "221104633",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5
+        }
+      ]
+    },
+    {
+      "id": "60828",
+      "PLU": "221104628",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5
+        }
+      ]
+    },
+    {
+      "id": "60829",
+      "PLU": "221104631",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5
+        }
+      ]
+    },
+    {
+      "id": "60835",
+      "PLU": "221104627",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5
+        }
+      ]
+    },
+    {
+      "id": "60836",
+      "PLU": "221104629",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5
+        }
+      ]
+    },
+    {
+      "id": "60837",
+      "PLU": "221104630",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5
+        }
+      ]
+    },
+    {
+      "id": "60838",
+      "PLU": "221104626",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5
+        }
+      ]
+    },
+    {
+      "id": "61069",
+      "PLU": "175004819",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0.69
+        }
+      ]
+    },
+    {
+      "id": "61076",
+      "PLU": "169104744",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.86
+        }
+      ]
+    },
+    {
+      "id": "61078",
+      "PLU": "169104749",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.98
+        }
+      ]
+    },
+    {
+      "id": "61079",
+      "PLU": "169104766",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.98
+        }
+      ]
+    },
+    {
+      "id": "61081",
+      "PLU": "169104768",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.98
+        }
+      ]
+    },
+    {
+      "id": "61083",
+      "PLU": "169104755",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.14
+        }
+      ]
+    },
+    {
+      "id": "61086",
+      "PLU": "169104770",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.98
+        }
+      ]
+    },
+    {
+      "id": "61087",
+      "PLU": "169104774",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.98
+        }
+      ]
+    },
+    {
+      "id": "61090",
+      "PLU": "169104759",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 9.82
+        }
+      ]
+    },
+    {
+      "id": "61091",
+      "PLU": "169104772",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.98
+        }
+      ]
+    },
+    {
+      "id": "61094",
+      "PLU": "169104747",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.98
+        }
+      ]
+    },
+    {
+      "id": "61097",
+      "PLU": "169104754",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.98
+        }
+      ]
+    },
+    {
+      "id": "61098",
+      "PLU": "169104752",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.14
+        }
+      ]
+    },
+    {
+      "id": "61100",
+      "PLU": "169104751",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 9.82
+        }
+      ]
+    },
+    {
+      "id": "61101",
+      "PLU": "169104746",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.14
+        }
+      ]
+    },
+    {
+      "id": "61237",
+      "PLU": "169104839",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 10.18
+        }
+      ]
+    },
+    {
+      "id": "61242",
+      "PLU": "169104837",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 10.3
+        }
+      ]
+    },
+    {
+      "id": "61252",
+      "PLU": "175004776",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0.72
+        }
+      ]
+    },
+    {
+      "id": "61256",
+      "PLU": "169104844",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 9.46
+        }
+      ]
+    },
+    {
+      "id": "61272",
+      "PLU": "169104851",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 6.82
+        }
+      ]
+    },
+    {
+      "id": "61349",
+      "PLU": "172004749",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.59
+        }
+      ]
+    },
+    {
+      "id": "61350",
+      "PLU": "172004766",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.59
+        }
+      ]
+    },
+    {
+      "id": "61352",
+      "PLU": "172004768",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.59
+        }
+      ]
+    },
+    {
+      "id": "61354",
+      "PLU": "172004755",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.59
+        }
+      ]
+    },
+    {
+      "id": "61357",
+      "PLU": "172004770",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.59
+        }
+      ]
+    },
+    {
+      "id": "61358",
+      "PLU": "172004774",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.59
+        }
+      ]
+    },
+    {
+      "id": "61361",
+      "PLU": "172004759",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.59
+        }
+      ]
+    },
+    {
+      "id": "61362",
+      "PLU": "172004772",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.59
+        }
+      ]
+    },
+    {
+      "id": "61365",
+      "PLU": "172004747",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.59
+        }
+      ]
+    },
+    {
+      "id": "61367",
+      "PLU": "172004761",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.8
+        }
+      ]
+    },
+    {
+      "id": "61368",
+      "PLU": "172004754",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.8
+        }
+      ]
+    },
+    {
+      "id": "61369",
+      "PLU": "172004752",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.59
+        }
+      ]
+    },
+    {
+      "id": "61373",
+      "PLU": "172004844",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.59
+        }
+      ]
+    },
+    {
+      "id": "61387",
+      "PLU": "172004751",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.59
+        }
+      ]
+    },
+    {
+      "id": "61388",
+      "PLU": "172004837",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.59
+        }
+      ]
+    },
+    {
+      "id": "61390",
+      "PLU": "172004851",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.59
+        }
+      ]
+    },
+    {
+      "id": "61393",
+      "PLU": "172004839",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.9
+        }
+      ]
+    },
+    {
+      "id": "61473",
+      "PLU": "111004870",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 11.26
+        }
+      ]
+    },
+    {
+      "id": "61474",
+      "PLU": "121004870",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.66
+        }
+      ]
+    },
+    {
+      "id": "61780",
+      "PLU": "111003741",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 10.18
+        }
+      ]
+    },
+    {
+      "id": "61781",
+      "PLU": "121003741",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 6.82
+        }
+      ]
+    },
+    {
+      "id": "61782",
+      "PLU": "131003741",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 6.58
+        }
+      ]
+    },
+    {
+      "id": "61783",
+      "PLU": "162003741",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5.98
+        }
+      ]
+    },
+    {
+      "id": "61883",
+      "PLU": "171003741",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.6
+        }
+      ]
+    },
+    {
+      "id": "61884",
+      "PLU": "172003741",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.8
+        }
+      ]
+    },
+    {
+      "id": "61920",
+      "PLU": "321001885",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.78
+        }
+      ]
+    },
+    {
+      "id": "61922",
+      "PLU": "321002808",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.78
+        }
+      ]
+    },
+    {
+      "id": "62287",
+      "PLU": "163000985",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.7
+        }
+      ]
+    },
+    {
+      "id": "62321",
+      "PLU": "169104972",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.86
+        }
+      ]
+    },
+    {
+      "id": "62325",
+      "PLU": "174000587",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.44
+        }
+      ]
+    },
+    {
+      "id": "62326",
+      "PLU": "175000587",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0.72
+        }
+      ]
+    },
+    {
+      "id": "62992",
+      "PLU": "111005033",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.38
+        }
+      ]
+    },
+    {
+      "id": "62993",
+      "PLU": "121005033",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5.98
+        }
+      ]
+    },
+    {
+      "id": "62994",
+      "PLU": "131005033",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.18
+        }
+      ]
+    },
+    {
+      "id": "62995",
+      "PLU": "162005033",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5.98
+        }
+      ]
+    },
+    {
+      "id": "62996",
+      "PLU": "171005033",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.6
+        }
+      ]
+    },
+    {
+      "id": "62997",
+      "PLU": "172005033",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.8
+        }
+      ]
+    },
+    {
+      "id": "63022",
+      "PLU": "169105035",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 9.34
+        }
+      ]
+    },
+    {
+      "id": "63024",
+      "PLU": "172005035",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.8
+        }
+      ]
+    },
+    {
+      "id": "63032",
+      "PLU": "174005037",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0.96
+        }
+      ]
+    },
+    {
+      "id": "63033",
+      "PLU": "175005037",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0.6
+        }
+      ]
+    },
+    {
+      "id": "63330",
+      "PLU": "163005118",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.18
+        }
+      ]
+    },
+    {
+      "id": "63337",
+      "PLU": "321005122",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.54
+        }
+      ]
+    },
+    {
+      "id": "63346",
+      "PLU": "111005116",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.78
+        }
+      ]
+    },
+    {
+      "id": "63347",
+      "PLU": "121005116",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.18
+        }
+      ]
+    },
+    {
+      "id": "63348",
+      "PLU": "131005116",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 6.58
+        }
+      ]
+    },
+    {
+      "id": "63349",
+      "PLU": "162005116",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.18
+        }
+      ]
+    },
+    {
+      "id": "63395",
+      "PLU": "169105117",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.78
+        }
+      ]
+    },
+    {
+      "id": "63414",
+      "PLU": "321005119",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0.94
+        }
+      ]
+    },
+    {
+      "id": "63438",
+      "PLU": "174005116",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.2
+        }
+      ]
+    },
+    {
+      "id": "63440",
+      "PLU": "175005116",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0.6
+        }
+      ]
+    },
+    {
+      "id": "63920",
+      "PLU": "163005183",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.18
+        }
+      ]
+    },
+    {
+      "id": "63932",
+      "PLU": "221105186",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.92
+        }
+      ]
+    },
+    {
+      "id": "63935",
+      "PLU": "221105187",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.92
+        }
+      ]
+    },
+    {
+      "id": "63977",
+      "PLU": "174005200",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.2
+        }
+      ]
+    },
+    {
+      "id": "63978",
+      "PLU": "175005200",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0.6
+        }
+      ]
+    },
+    {
+      "id": "63992",
+      "PLU": "169105202",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.06
+        }
+      ]
+    },
+    {
+      "id": "63993",
+      "PLU": "172005202",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0.6
+        }
+      ]
+    },
+    {
+      "id": "64002",
+      "PLU": "163005204",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.38
+        }
+      ]
+    },
+    {
+      "id": "64007",
+      "PLU": "163005206",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.38
+        }
+      ]
+    },
+    {
+      "id": "64012",
+      "PLU": "163005208",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.38
+        }
+      ]
+    },
+    {
+      "id": "64017",
+      "PLU": "163005210",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.38
+        }
+      ]
+    },
+    {
+      "id": "64030",
+      "PLU": "163005213",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.38
+        }
+      ]
+    },
+    {
+      "id": "64035",
+      "PLU": "171005200",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.2
+        }
+      ]
+    },
+    {
+      "id": "64036",
+      "PLU": "121005200",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5.86
+        }
+      ]
+    },
+    {
+      "id": "64037",
+      "PLU": "131005200",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 6.58
+        }
+      ]
+    },
+    {
+      "id": "64038",
+      "PLU": "162005200",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.18
+        }
+      ]
+    },
+    {
+      "id": "64039",
+      "PLU": "111005200",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.74
+        }
+      ]
+    },
+    {
+      "id": "64040",
+      "PLU": "172005200",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0.6
+        }
+      ]
+    },
+    {
+      "id": "64046",
+      "PLU": "221105216",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.38
+        }
+      ]
+    },
+    {
+      "id": "64047",
+      "PLU": "221105217",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.38
+        }
+      ]
+    },
+    {
+      "id": "64070",
+      "PLU": "174005218",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.2
+        }
+      ]
+    },
+    {
+      "id": "64073",
+      "PLU": "175005218",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 0.6
+        }
+      ]
+    },
+    {
+      "id": "64212",
+      "PLU": "321005247",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.99
+        }
+      ]
+    },
+    {
+      "id": "64213",
+      "PLU": "321005248",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.98
+        }
+      ]
+    },
+    {
+      "id": "64285",
+      "PLU": "221005258",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.38
+        }
+      ]
+    },
+    {
+      "id": "64290",
+      "PLU": "221005259",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.38
+        }
+      ]
+    },
+    {
+      "id": "64321",
+      "PLU": "169105269",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.18
+        }
+      ]
+    },
+    {
+      "id": "64322",
+      "PLU": "172005269",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.8
+        }
+      ]
+    },
+    {
+      "id": "64328",
+      "PLU": "163005271",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.78
+        }
+      ]
+    },
+    {
+      "id": "64338",
+      "PLU": "163005278",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.58
+        }
+      ]
+    },
+    {
+      "id": "64348",
+      "PLU": "111005281",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 9.58
+        }
+      ]
+    },
+    {
+      "id": "64349",
+      "PLU": "121005281",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 6.34
+        }
+      ]
+    },
+    {
+      "id": "64350",
+      "PLU": "131005281",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.06
+        }
+      ]
+    },
+    {
+      "id": "64351",
+      "PLU": "162005281",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 6.34
+        }
+      ]
+    },
+    {
+      "id": "64360",
+      "PLU": "163005272",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.78
+        }
+      ]
+    },
+    {
+      "id": "64363",
+      "PLU": "163005273",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.78
+        }
+      ]
+    },
+    {
+      "id": "64366",
+      "PLU": "169105274",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.02
+        }
+      ]
+    },
+    {
+      "id": "64367",
+      "PLU": "172005274",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.8
+        }
+      ]
+    },
+    {
+      "id": "64413",
+      "PLU": "341005299",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.98
+        }
+      ]
+    },
+    {
+      "id": "64416",
+      "PLU": "171005281",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.6
+        }
+      ]
+    },
+    {
+      "id": "64417",
+      "PLU": "172005281",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.8
+        }
+      ]
+    },
+    {
+      "id": "64443",
+      "PLU": "168005300",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.18
+        }
+      ]
+    },
+    {
+      "id": "64446",
+      "PLU": "168005301",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.18
+        }
+      ]
+    },
+    {
+      "id": "64450",
+      "PLU": "168005305",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.18
+        }
+      ]
+    },
+    {
+      "id": "64482",
+      "PLU": "221105320",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.38
+        }
+      ]
+    },
+    {
+      "id": "64484",
+      "PLU": "221105321",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.38
+        }
+      ]
+    },
+    {
+      "id": "64487",
+      "PLU": "221105331",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.38
+        }
+      ]
+    },
+    {
+      "id": "64488",
+      "PLU": "221105322",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.66
+        }
+      ]
+    },
+    {
+      "id": "64490",
+      "PLU": "221105323",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.66
+        }
+      ]
+    },
+    {
+      "id": "64492",
+      "PLU": "221105324",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.38
+        }
+      ]
+    },
+    {
+      "id": "64494",
+      "PLU": "221105325",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.38
+        }
+      ]
+    },
+    {
+      "id": "64496",
+      "PLU": "221105332",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.66
+        }
+      ]
+    },
+    {
+      "id": "64498",
+      "PLU": "221105326",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.38
+        }
+      ]
+    },
+    {
+      "id": "64500",
+      "PLU": "221105333",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.66
+        }
+      ]
+    },
+    {
+      "id": "64502",
+      "PLU": "221104053",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.66
+        }
+      ]
+    },
+    {
+      "id": "64507",
+      "PLU": "221102399",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.6
+        }
+      ]
+    },
+    {
+      "id": "64534",
+      "PLU": "175000970",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.2
+        }
+      ]
+    },
+    {
+      "id": "64540",
+      "PLU": "175005329",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.2
+        }
+      ]
+    },
+    {
+      "id": "64550",
+      "PLU": "111005349",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.74
+        }
+      ]
+    },
+    {
+      "id": "64551",
+      "PLU": "121005349",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5.86
+        }
+      ]
+    },
+    {
+      "id": "64552",
+      "PLU": "131005349",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 6.58
+        }
+      ]
+    },
+    {
+      "id": "64553",
+      "PLU": "162005349",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.18
+        }
+      ]
+    },
+    {
+      "id": "64569",
+      "PLU": "169105372",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.06
+        }
+      ]
+    },
+    {
+      "id": "64608",
+      "PLU": "169105360",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.26
+        }
+      ]
+    },
+    {
+      "id": "64626",
+      "PLU": "172005360",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.8
+        }
+      ]
+    },
+    {
+      "id": "64648",
+      "PLU": "111000900",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.74
+        }
+      ]
+    },
+    {
+      "id": "64649",
+      "PLU": "121000900",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5.86
+        }
+      ]
+    },
+    {
+      "id": "64650",
+      "PLU": "131000900",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 6.58
+        }
+      ]
+    },
+    {
+      "id": "64651",
+      "PLU": "162000900",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.18
+        }
+      ]
+    },
+    {
+      "id": "64652",
+      "PLU": "171000900",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.6
+        }
+      ]
+    },
+    {
+      "id": "64653",
+      "PLU": "172000900",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.8
+        }
+      ]
+    },
+    {
+      "id": "64666",
+      "PLU": "111005359",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.74
+        }
+      ]
+    },
+    {
+      "id": "64667",
+      "PLU": "121005359",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5.86
+        }
+      ]
+    },
+    {
+      "id": "64670",
+      "PLU": "171005359",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.6
+        }
+      ]
+    },
+    {
+      "id": "64671",
+      "PLU": "172005359",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.8
+        }
+      ]
+    },
+    {
+      "id": "64696",
+      "PLU": "169105356",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.06
+        }
+      ]
+    },
+    {
+      "id": "64697",
+      "PLU": "172005356",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.8
+        }
+      ]
+    },
+    {
+      "id": "64739",
+      "PLU": "341005343",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.38
+        }
+      ]
+    },
+    {
+      "id": "65036",
+      "PLU": "169105469",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 6.82
+        }
+      ]
+    },
+    {
+      "id": "65037",
+      "PLU": "172005469",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.8
+        }
+      ]
+    },
+    {
+      "id": "65071",
+      "PLU": "111005478",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 6.94
+        }
+      ]
+    },
+    {
+      "id": "65072",
+      "PLU": "121005478",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.54
+        }
+      ]
+    },
+    {
+      "id": "65073",
+      "PLU": "131005478",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.54
+        }
+      ]
+    },
+    {
+      "id": "65074",
+      "PLU": "162005478",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.54
+        }
+      ]
+    },
+    {
+      "id": "65075",
+      "PLU": "171005478",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.4
+        }
+      ]
+    },
+    {
+      "id": "65076",
+      "PLU": "172005478",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.2
+        }
+      ]
+    },
+    {
+      "id": "65679",
+      "PLU": "341005629",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.38
+        }
+      ]
+    },
+    {
+      "id": "65712",
+      "PLU": "321105604",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.66
+        }
+      ]
+    },
+    {
+      "id": "65714",
+      "PLU": "321105619",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.78
+        }
+      ]
+    },
+    {
+      "id": "65819",
+      "PLU": "321105617",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.78
+        }
+      ]
+    },
+    {
+      "id": "65825",
+      "PLU": "321105616",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.66
+        }
+      ]
+    },
+    {
+      "id": "65835",
+      "PLU": "111005318",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 8.38
+        }
+      ]
+    },
+    {
+      "id": "65836",
+      "PLU": "121005318",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5.98
+        }
+      ]
+    },
+    {
+      "id": "65837",
+      "PLU": "131005318",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 7.18
+        }
+      ]
+    },
+    {
+      "id": "65838",
+      "PLU": "162005318",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5.98
+        }
+      ]
+    },
+    {
+      "id": "65839",
+      "PLU": "171005318",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3.6
+        }
+      ]
+    },
+    {
+      "id": "65840",
+      "PLU": "172005318",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.8
+        }
+      ]
+    },
+    {
+      "id": "65853",
+      "PLU": "163005636",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.38
+        }
+      ]
+    },
+    {
+      "id": "65861",
+      "PLU": "163005632",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.38
+        }
+      ]
+    },
+    {
+      "id": "65867",
+      "PLU": "341005618",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.78
+        }
+      ]
+    },
+    {
+      "id": "65870",
+      "PLU": "341005603",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.62
+        }
+      ]
+    },
+    {
+      "id": "65959",
+      "PLU": "245005661",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.78
+        }
+      ]
+    },
+    {
+      "id": "65960",
+      "PLU": "245005662",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.78
+        }
+      ]
+    },
+    {
+      "id": "65961",
+      "PLU": "245005663",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.78
+        }
+      ]
+    },
+    {
+      "id": "65971",
+      "PLU": "174005281",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.32
+        }
+      ]
+    },
+    {
+      "id": "65972",
+      "PLU": "175005281",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.16
+        }
+      ]
+    },
+    {
+      "id": "65989",
+      "PLU": "174005318",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 4.32
+        }
+      ]
+    },
+    {
+      "id": "65990",
+      "PLU": "175005318",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.16
+        }
+      ]
+    },
+    {
+      "id": "66234",
+      "PLU": "311005637",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.38
+        }
+      ]
+    },
+    {
+      "id": "66245",
+      "PLU": "163005749",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.38
+        }
+      ]
+    },
+    {
+      "id": "66357",
+      "PLU": "321105785",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.78
+        }
+      ]
+    },
+    {
+      "id": "66360",
+      "PLU": "321105807",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.62
+        }
+      ]
+    },
+    {
+      "id": "66363",
+      "PLU": "321104662",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.78
+        }
+      ]
+    },
+    {
+      "id": "66365",
+      "PLU": "321104665",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.62
+        }
+      ]
+    },
+    {
+      "id": "66419",
+      "PLU": "171105817",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 2.88
+        }
+      ]
+    },
+    {
+      "id": "66420",
+      "PLU": "172105817",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 1.44
+        }
+      ]
+    },
+    {
+      "id": "66481",
+      "PLU": "151005512",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 15.58
+        }
+      ]
+    },
+    {
+      "id": "66482",
+      "PLU": "151005513",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 17.98
+        }
+      ]
+    },
+    {
+      "id": "66483",
+      "PLU": "151005515",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 15.58
+        }
+      ]
+    },
+    {
+      "id": "66484",
+      "PLU": "151005514",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 17.98
+        }
+      ]
+    },
+    {
+      "id": "66518",
+      "PLU": "165905838",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5.38
+        }
+      ]
+    },
+    {
+      "id": "66521",
+      "PLU": "165905686",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5.38
+        }
+      ]
+    },
+    {
+      "id": "66526",
+      "PLU": "165905840",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5.38
+        }
+      ]
+    },
+    {
+      "id": "66527",
+      "PLU": "165705843",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 17.98
+        }
+      ]
+    },
+    {
+      "id": "66528",
+      "PLU": "165705844",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 17.98
+        }
+      ]
+    },
+    {
+      "id": "66529",
+      "PLU": "165705845",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 17.98
+        }
+      ]
+    },
+    {
+      "id": "66530",
+      "PLU": "165905846",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 5.38
+        }
+      ]
+    },
+    {
+      "id": "66531",
+      "PLU": "177005514",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3
+        }
+      ]
+    },
+    {
+      "id": "66532",
+      "PLU": "177005513",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 3
+        }
+      ]
+    },
+    {
+      "id": "66533",
+      "PLU": "165705839",
+      "prices": [
+        {
+          "pricingScheme": "3",
+          "price": 20.38
+        }
+      ]
+    }
+  ]
+}
