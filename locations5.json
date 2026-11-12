@@ -1,0 +1,612 @@
+{
+  "locationId": "68628-0",
+  "isLocationOperating": true,
+  "isOpen": true,
+  "isOnline": true,
+  "isPOSOnline": true,
+  "isOnlineAsOf": "2026-11-11T07:05:32.607Z",
+  "isTempClosed": false,
+  "legalEntityName": "Sahil Basandrai",
+  "cateringURL": null,
+  "vatId": "GB449068662",
+  "vtId": "17731980",
+  "menuCountryCode": "UKM",
+  "receiptFooter": {
+    "textLine1": "",
+    "textLine2": "",
+    "textLine3": "Melkshams",
+    "textLine4": "",
+    "textLine5": ""
+  },
+  "individualOrderSettings": {
+    "orderSameDayMainItemsThreshold": 10,
+    "orderSameDaySidesThreshold": 25,
+    "orderFutureDayMainItemsThreshold": 10,
+    "orderFutureDaySidesThreshold": 25,
+    "orderCutOffTime": 15,
+    "orderSameDayPreparationTime": 15,
+    "orderFutureDayPrepartionTime": 15,
+    "orderFutureDayPreparationTime": 15,
+    "orderTimeLimit": 30,
+    "orderHandlingCapacity": 99,
+    "futureDayThresholdTime": 720,
+    "cancellationCutOffTime": 1440,
+    "orderSameDaySoupsThreshold": 10,
+    "orderFutureDaySoupsThreshold": 10
+  },
+  "cateringOrderSettings": {
+    "orderSameDayMainItemsThreshold": 999,
+    "orderSameDaySidesThreshold": 999,
+    "orderSameDayPlatterItemsThreshold": 999,
+    "orderFutureDayMainItemsThreshold": 999,
+    "orderFutureDaySidesThreshold": 999,
+    "orderFutureDayPlatterItemsThreshold": 999,
+    "orderCutOffTime": 15,
+    "orderSameDayPreparationTime": 90,
+    "orderFutureDayPrepartionTime": 15,
+    "orderFutureDayPreparationTime": 15,
+    "orderTimeLimit": 30,
+    "orderHandlingCapacity": 99,
+    "customerOrderLeadTime": 120,
+    "customerLargeOrderLeadTime": 1440,
+    "largeOrderSameDayPreparationTime": 90,
+    "largeOrderFutureDayPreparationTime": 99,
+    "largeOrderMonetaryThreshold": 300,
+    "cancellationCutOffTime": 1440,
+    "futureDayThresholdTime": 720,
+    "orderSameDaySoupsThreshold": 10,
+    "orderFutureDaySoupsThreshold": 10
+  },
+  "inRestaurantOrderSettings": {
+    "orderSameDayMainItemsThreshold": 0,
+    "orderSameDaySidesThreshold": 0,
+    "orderSameDayPreparationTime": 0,
+    "orderCutOffTime": 0,
+    "orderTimeLimit": 0,
+    "orderSameDaySoupsThreshold": 0
+  },
+  "tempClosedDate": null,
+  "tempClosedReasonId": null,
+  "tempClosedReason": null,
+  "locationType": "Traditional",
+  "subwayPOS": true,
+  "orderProductivityThreshold": 6,
+  "orderSidesThreshold": 25,
+  "orderHandlingCapacity": 99,
+  "orderCutOffTime": 15,
+  "address": {
+    "streetAddress1": "36 Moorland Road",
+    "streetAddressLine2": "Ground Floor",
+    "streetAddressLine3": "",
+    "city": "Bath",
+    "state": "EN",
+    "zip": "BA2 3PN",
+    "county": "",
+    "country": "GB"
+  },
+  "locationTimeZone": "Europe/London",
+  "countryDialingCode": "44",
+  "telephoneNumber": "1225333497",
+  "latitude": 51.3771918,
+  "longitude": -2.378522,
+  "paymentBrandsAccepted": [],
+  "storeLocator": true,
+  "locationFeatures": {
+    "hasBreakfast": true,
+    "hasCatering": false,
+    "hasDirectDelivery": false,
+    "hasFranchiseeSelfDelivery": true,
+    "hasDriveThrough": false,
+    "hasDineInTax": false,
+    "isROEnabled": true,
+    "hasInStoreTipping": false,
+    "hasCurbSide": false,
+    "hasGroupOrder": false,
+    "hasPickup": true,
+    "hasDineIn": true,
+    "hasOrderAhead": false,
+    "hasHalal": false,
+    "hasKosher": false,
+    "hasCupFee": false,
+    "hasBagFee": true,
+    "hasUtensilSelection": false,
+    "hasStrawSelection": false
+  },
+  "locationOpenNow": {
+    "forBreakfast": false,
+    "forCurbside": true,
+    "forDelivery": true,
+    "forPickup": true
+  },
+  "posCapabilities": {
+    "supportsSATip": false,
+    "supportsDeferredLoyaltyEarn": true
+  },
+  "disclaimers": [],
+  "locationHours": {
+    "breakfastHours": {
+      "monday": [
+        {
+          "open": "08:30",
+          "close": "11:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "open": "08:30",
+          "close": "11:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "open": "08:30",
+          "close": "11:00"
+        }
+      ],
+      "thursday": [
+        {
+          "open": "09:00",
+          "close": "11:00"
+        }
+      ],
+      "friday": [
+        {
+          "open": "08:30",
+          "close": "11:00"
+        }
+      ],
+      "saturday": [
+        {
+          "open": "08:30",
+          "close": "11:00"
+        }
+      ],
+      "sunday": [
+        {
+          "open": "08:30",
+          "close": "11:00"
+        }
+      ]
+    },
+    "restaurantOperatingHours": {
+      "monday": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thursday": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "friday": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "saturday": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sunday": [
+        {
+          "open": "00:15",
+          "close": "23:00"
+        }
+      ]
+    },
+    "franchiseeSelfdeliveryHours": {
+      "monday": [
+        {
+          "open": "09:30",
+          "close": "24:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "open": "00:00",
+          "close": "08:00"
+        },
+        {
+          "open": "09:30",
+          "close": "20:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "open": "09:30",
+          "close": "20:00"
+        }
+      ],
+      "thursday": [
+        {
+          "open": "09:30",
+          "close": "20:00"
+        }
+      ],
+      "friday": [
+        {
+          "open": "09:30",
+          "close": "23:00"
+        }
+      ],
+      "saturday": [
+        {
+          "open": "09:30",
+          "close": "23:00"
+        }
+      ],
+      "sunday": [
+        {
+          "open": "09:30",
+          "close": "20:00"
+        }
+      ]
+    },
+    "deliveryHours": {
+      "monday": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "thursday": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "friday": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "saturday": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ],
+      "sunday": [
+        {
+          "open": "00:00",
+          "close": "24:00"
+        }
+      ]
+    },
+    "curbsideHours": {
+      "monday": [
+        {
+          "open": "08:30",
+          "close": "23:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "open": "08:30",
+          "close": "23:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "open": "08:30",
+          "close": "23:00"
+        }
+      ],
+      "thursday": [
+        {
+          "open": "08:30",
+          "close": "23:00"
+        }
+      ],
+      "friday": [
+        {
+          "open": "08:30",
+          "close": "23:00"
+        }
+      ],
+      "saturday": [
+        {
+          "open": "08:30",
+          "close": "23:00"
+        }
+      ],
+      "sunday": [
+        {
+          "open": "08:30",
+          "close": "23:00"
+        }
+      ]
+    },
+    "holidayHours": [],
+    "eveningHours": {
+      "monday": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "tuesday": [
+        {
+          "open": "10:00",
+          "close": "19:00"
+        }
+      ],
+      "wednesday": [
+        {
+          "open": "14:00",
+          "close": "19:00"
+        }
+      ],
+      "thursday": [
+        {
+          "open": "14:00",
+          "close": "19:00"
+        }
+      ],
+      "friday": [
+        {
+          "open": "14:00",
+          "close": "19:00"
+        }
+      ],
+      "saturday": [
+        {
+          "open": "14:00",
+          "close": "19:00"
+        }
+      ],
+      "sunday": [
+        {
+          "open": "14:00",
+          "close": "19:00"
+        }
+      ]
+    }
+  },
+  "utcOffset": "UTC+00:00",
+  "storeCurrency": {
+    "currencyISOCode": "GBP",
+    "currencySymbol": "£"
+  },
+  "publicAttributes": {
+    "businessRegistrationNumber": "",
+    "emailAddress": "",
+    "registrationCourt": "",
+    "telephoneNumber": ""
+  },
+  "orderSettings": {
+    "kiosk": {
+      "individual": {
+        "pickup": {
+          "orderSameDayMainItemsThreshold": 0,
+          "orderSameDaySidesThreshold": 0,
+          "orderSameDayPreparationTime": 0,
+          "orderSameDaySoupsThreshold": 0,
+          "lastAllowedOrderPlacementOffset": 30,
+          "orderTimeLimit": 0
+        }
+      }
+    },
+    "marketplace": {
+      "individual": {
+        "pickup": {
+          "orderSameDayMainItemsThreshold": 10,
+          "orderSameDaySidesThreshold": 25,
+          "orderSameDayPreparationTime": 15,
+          "orderSameDaySoupsThreshold": 10,
+          "lastAllowedOrderPlacementOffset": 30,
+          "orderTimeLimit": 30,
+          "orderFutureDayMainItemsThreshold": 10,
+          "orderFutureDaySidesThreshold": 25,
+          "orderFutureDayPreparationTime": 15,
+          "orderHandlingCapacity": 99,
+          "orderFutureDaySoupsThreshold": 10,
+          "futureDayThresholdTime": 720,
+          "cancellationCutOffTime": 1440
+        },
+        "delivery": {
+          "orderSameDayMainItemsThreshold": 10,
+          "orderSameDaySidesThreshold": 25,
+          "orderSameDayPreparationTime": 15,
+          "orderSameDaySoupsThreshold": 10,
+          "lastAllowedOrderPlacementOffset": 30,
+          "orderTimeLimit": 30,
+          "orderFutureDayMainItemsThreshold": 10,
+          "orderFutureDaySidesThreshold": 25,
+          "orderFutureDayPreparationTime": 15,
+          "orderHandlingCapacity": 99,
+          "orderFutureDaySoupsThreshold": 10,
+          "futureDayThresholdTime": 720,
+          "cancellationCutOffTime": 1440
+        },
+        "curbside": {
+          "orderSameDayMainItemsThreshold": 10,
+          "orderSameDaySidesThreshold": 25,
+          "orderSameDayPreparationTime": 15,
+          "orderSameDaySoupsThreshold": 10,
+          "lastAllowedOrderPlacementOffset": 30,
+          "orderTimeLimit": 30,
+          "orderFutureDayMainItemsThreshold": 10,
+          "orderFutureDaySidesThreshold": 25,
+          "orderFutureDayPreparationTime": 15,
+          "orderHandlingCapacity": 99,
+          "orderFutureDaySoupsThreshold": 10,
+          "futureDayThresholdTime": 720,
+          "cancellationCutOffTime": 1440
+        }
+      },
+      "catering": {
+        "pickup": {
+          "orderSameDayMainItemsThreshold": 999,
+          "orderSameDaySidesThreshold": 999,
+          "orderSameDayPlatterItemsThreshold": 999,
+          "orderSameDayPreparationTime": 90,
+          "orderSameDaySoupsThreshold": 10,
+          "lastAllowedOrderPlacementOffset": 30,
+          "orderTimeLimit": 30,
+          "orderFutureDayMainItemsThreshold": 999,
+          "orderFutureDaySidesThreshold": 999,
+          "orderFutureDayPlatterItemsThreshold": 999,
+          "orderFutureDayPreparationTime": 15,
+          "orderHandlingCapacity": 99,
+          "orderFutureDaySoupsThreshold": 10,
+          "futureDayThresholdTime": 720,
+          "cancellationCutOffTime": 1440,
+          "customerOrderLeadTime": 120,
+          "customerLargeOrderLeadTime": 1440,
+          "largeOrderSameDayPreparationTime": 90,
+          "largeOrderFutureDayPreparationTime": 99,
+          "largeOrderMonetaryThreshold": 300
+        },
+        "delivery": {
+          "orderSameDayMainItemsThreshold": 999,
+          "orderSameDaySidesThreshold": 999,
+          "orderSameDayPlatterItemsThreshold": 999,
+          "orderSameDayPreparationTime": 90,
+          "orderSameDaySoupsThreshold": 10,
+          "lastAllowedOrderPlacementOffset": 30,
+          "orderTimeLimit": 30,
+          "orderFutureDayMainItemsThreshold": 999,
+          "orderFutureDaySidesThreshold": 999,
+          "orderFutureDayPlatterItemsThreshold": 999,
+          "orderFutureDayPreparationTime": 15,
+          "orderHandlingCapacity": 99,
+          "orderFutureDaySoupsThreshold": 10,
+          "futureDayThresholdTime": 720,
+          "cancellationCutOffTime": 1440,
+          "customerOrderLeadTime": 120,
+          "customerLargeOrderLeadTime": 1440,
+          "largeOrderSameDayPreparationTime": 90,
+          "largeOrderFutureDayPreparationTime": 99,
+          "largeOrderMonetaryThreshold": 300
+        }
+      }
+    },
+    "subway": {
+      "individual": {
+        "pickup": {
+          "orderSameDayMainItemsThreshold": 10,
+          "orderSameDaySidesThreshold": 25,
+          "orderSameDayPreparationTime": 15,
+          "orderSameDaySoupsThreshold": 10,
+          "lastAllowedOrderPlacementOffset": 30,
+          "orderTimeLimit": 30,
+          "orderFutureDayMainItemsThreshold": 10,
+          "orderFutureDaySidesThreshold": 25,
+          "orderFutureDayPreparationTime": 15,
+          "orderHandlingCapacity": 99,
+          "orderFutureDaySoupsThreshold": 10,
+          "futureDayThresholdTime": 720,
+          "cancellationCutOffTime": 1440
+        },
+        "delivery": {
+          "orderSameDayMainItemsThreshold": 10,
+          "orderSameDaySidesThreshold": 25,
+          "orderSameDayPreparationTime": 15,
+          "orderSameDaySoupsThreshold": 10,
+          "lastAllowedOrderPlacementOffset": 30,
+          "orderTimeLimit": 30,
+          "orderFutureDayMainItemsThreshold": 10,
+          "orderFutureDaySidesThreshold": 25,
+          "orderFutureDayPreparationTime": 15,
+          "orderHandlingCapacity": 99,
+          "orderFutureDaySoupsThreshold": 10,
+          "futureDayThresholdTime": 720,
+          "cancellationCutOffTime": 1440
+        },
+        "curbside": {
+          "orderSameDayMainItemsThreshold": 10,
+          "orderSameDaySidesThreshold": 25,
+          "orderSameDayPreparationTime": 15,
+          "orderSameDaySoupsThreshold": 10,
+          "lastAllowedOrderPlacementOffset": 30,
+          "orderTimeLimit": 30,
+          "orderFutureDayMainItemsThreshold": 10,
+          "orderFutureDaySidesThreshold": 25,
+          "orderFutureDayPreparationTime": 15,
+          "orderHandlingCapacity": 99,
+          "orderFutureDaySoupsThreshold": 10,
+          "futureDayThresholdTime": 720,
+          "cancellationCutOffTime": 1440
+        }
+      },
+      "catering": {
+        "pickup": {
+          "orderSameDayMainItemsThreshold": 999,
+          "orderSameDaySidesThreshold": 999,
+          "orderSameDayPlatterItemsThreshold": 999,
+          "orderSameDayPreparationTime": 90,
+          "orderSameDaySoupsThreshold": 10,
+          "lastAllowedOrderPlacementOffset": 30,
+          "orderTimeLimit": 30,
+          "orderFutureDayMainItemsThreshold": 999,
+          "orderFutureDaySidesThreshold": 999,
+          "orderFutureDayPlatterItemsThreshold": 999,
+          "orderFutureDayPreparationTime": 15,
+          "orderHandlingCapacity": 99,
+          "orderFutureDaySoupsThreshold": 10,
+          "futureDayThresholdTime": 720,
+          "cancellationCutOffTime": 1440,
+          "customerOrderLeadTime": 120,
+          "customerLargeOrderLeadTime": 1440,
+          "largeOrderSameDayPreparationTime": 90,
+          "largeOrderFutureDayPreparationTime": 99,
+          "largeOrderMonetaryThreshold": 300
+        },
+        "delivery": {
+          "orderSameDayMainItemsThreshold": 999,
+          "orderSameDaySidesThreshold": 999,
+          "orderSameDayPlatterItemsThreshold": 999,
+          "orderSameDayPreparationTime": 90,
+          "orderSameDaySoupsThreshold": 10,
+          "lastAllowedOrderPlacementOffset": 30,
+          "orderTimeLimit": 30,
+          "orderFutureDayMainItemsThreshold": 999,
+          "orderFutureDaySidesThreshold": 999,
+          "orderFutureDayPlatterItemsThreshold": 999,
+          "orderFutureDayPreparationTime": 15,
+          "orderHandlingCapacity": 99,
+          "orderFutureDaySoupsThreshold": 10,
+          "futureDayThresholdTime": 720,
+          "cancellationCutOffTime": 1440,
+          "customerOrderLeadTime": 120,
+          "customerLargeOrderLeadTime": 1440,
+          "largeOrderSameDayPreparationTime": 90,
+          "largeOrderFutureDayPreparationTime": 99,
+          "largeOrderMonetaryThreshold": 300
+        }
+      }
+    }
+  }
+}
